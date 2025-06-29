@@ -1,5 +1,7 @@
 package com.example;
 
+import java.util.HashSet;
+
 public class LongestString {
 
     public static int lengthOfLongestSubstring(String s) {
